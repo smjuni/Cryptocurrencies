@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Module 18 - Unsupervised Machine Learning
+Unsupervised Machine Learning
 
 ## Overview of the Analysis
 The purpose of this analysis is to use unsupervised machine learning to conduct an exploratory  analysis to classify tradable cryptocurrencies for a prominent investment bank.
